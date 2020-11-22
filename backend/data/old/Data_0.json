@@ -1,0 +1,5460 @@
+[
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Natural Thick Curd",
+        "product_brand": "Id",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amul Khoa",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Chocolate, Dairy Free",
+        "product_brand": "Epigamia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Shredded Mozzarella",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Toned Milk",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "6x1 L",
+                "390.00"
+            ],
+            [
+                "12x1 L",
+                "765.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim 'n' Trim Skimmed Milk",
+        "product_brand": "Amul Slim",
+        "combo": [
+            [
+                "1 L",
+                "75.00"
+            ],
+            [
+                "2x1 L",
+                "150.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Fresh 'n' Thick",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Yummy Plain",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Pizza Cheese - Mozzarella Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mithai Mate - Sweetened Condensed Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "400 g",
+                "100.70"
+            ],
+            [
+                "200 g",
+                "52.53"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "3x250 ml",
+                "60.00"
+            ],
+            [
+                "6x250 ml",
+                "120.00"
+            ],
+            [
+                "4x250 ml",
+                "80.00"
+            ],
+            [
+                "250 ml",
+                "20.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Dairy Fresh Malai",
+        "product_brand": "Modern Dairy",
+        "combo": [
+            [
+                "2x200 g",
+                "180.00"
+            ],
+            [
+                "200 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Block",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese - Cubes",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter - Pasteurised (School Pack)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener",
+        "product_brand": "Amulya",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Natural",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "4x200 ml",
+                "238.00"
+            ],
+            [
+                "3x200 ml",
+                "210.00"
+            ],
+            [
+                "2x1 L",
+                "420.75"
+            ],
+            [
+                "200 ml",
+                "70.00"
+            ],
+            [
+                "1 L",
+                "247.50"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mishti Doi",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slices",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Chiplets (Cubes)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim Milk - Low Fat Carton",
+        "product_brand": "Nestle A+",
+        "combo": [
+            [
+                "1 L",
+                "89.00"
+            ],
+            [
+                "5x1 L",
+                "420.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Daily Fresh - Dahi",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "5x150 g",
+                "125.00"
+            ],
+            [
+                "150 g",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Paneer",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool - Kesar",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "5x180 ml",
+                "92.70"
+            ],
+            [
+                "180 ml",
+                "18.54"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk - Soya, Sugar Free",
+        "product_brand": "Sofit",
+        "combo": [
+            [
+                "2x1 L",
+                "222.00"
+            ],
+            [
+                "3x200 ml",
+                "101.85"
+            ],
+            [
+                "200 ml",
+                "33.95"
+            ],
+            [
+                "6x200 ml",
+                "203.70"
+            ],
+            [
+                "4x200 ml",
+                "135.80"
+            ],
+            [
+                "1 L",
+                "111.00"
+            ],
+            [
+                "3x1 L",
+                "333.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd",
+        "product_brand": "mother dairy",
+        "combo": [
+            [
+                "2x1 kg",
+                "130.00"
+            ],
+            [
+                "1 kg",
+                "65.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Cheddar",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Cubes",
+        "product_brand": "Britannia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lassi - Rose Flavor",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "1 L",
+                "70.00"
+            ],
+            [
+                "5x200 ml",
+                "75.00"
+            ],
+            [
+                "200 ml",
+                "15.00"
+            ],
+            [
+                "2x1 L",
+                "140.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cream Cheese",
+        "product_brand": "Britannia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mango Shrikhand",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Probiotic Health Drink - Light",
+        "product_brand": "Yakult",
+        "combo": [
+            [
+                "4x65 ml",
+                "340.00"
+            ],
+            [
+                "65 ml",
+                "85.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Full Cream Shrikhand - Amba",
+        "product_brand": "Chitale Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Chilled Latte Coffee",
+        "product_brand": "Nescafe",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "6x180 ml",
+                "210.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Cheddar, Diced",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Classic Block",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fruit Yoghurt - Strawberry",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "4x100 ml",
+                "100.00"
+            ],
+            [
+                "100 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Cubes, Frozen",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheezza Cheese Block for Pizza",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "400 g",
+                "285.00"
+            ],
+            [
+                "200 g",
+                "133.90"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Premium Fresh",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Plain (Soft & Creamy)",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Block",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "400 g",
+                "238.96"
+            ],
+            [
+                "200 g",
+                "155.00"
+            ],
+            [
+                "1 kg",
+                "525.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk - Soya, Vanilla",
+        "product_brand": "Sofit",
+        "combo": [
+            [
+                "3x1 L",
+                "378.30"
+            ],
+            [
+                "200 ml",
+                "33.95"
+            ],
+            [
+                "1 L",
+                "126.10"
+            ],
+            [
+                "3x200 ml",
+                "101.85"
+            ],
+            [
+                "6x200 ml",
+                "203.70"
+            ],
+            [
+                "2x1 L",
+                "252.20"
+            ],
+            [
+                "4x200 ml",
+                "135.80"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Daily Fresh Dahi",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "5x80 g",
+                "50.00"
+            ],
+            [
+                "80 g",
+                "10.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Elaichi Shrikhand",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Table Butter - Pasteurised",
+        "product_brand": "Gowardhan",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fruit Yoghurt - Blueberry",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "100 g",
+                "25.00"
+            ],
+            [
+                "4x100 g",
+                "100.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk - Soya, Chocolate",
+        "product_brand": "Sofit",
+        "combo": [
+            [
+                "3x1 L",
+                "333.00"
+            ],
+            [
+                "2x1 L",
+                "222.00"
+            ],
+            [
+                "1 L",
+                "111.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Olive & Herbs (Soft & Creamy)",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Full Cream Shrikhand - Keshar",
+        "product_brand": "Chitale Dairy",
+        "combo": [
+            [
+                "250 g",
+                "68.00"
+            ],
+            [
+                "500 g",
+                "125.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [
+            [
+                "500 g",
+                "175.50"
+            ],
+            [
+                "500 g",
+                "171.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Basundi",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fruit Yoghurt - Mango",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "4x100 ml",
+                "100.00"
+            ],
+            [
+                "100 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "100 g",
+                "57.00"
+            ],
+            [
+                "500 g",
+                "290.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cholesterol Free - Spread",
+        "product_brand": "Delicious",
+        "combo": [
+            [
+                "500 g",
+                "63.86"
+            ],
+            [
+                "100 g",
+                "13.90"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk Shake - Chocolate",
+        "product_brand": "Hersheys",
+        "combo": [
+            [
+                "200 ml",
+                "26.25"
+            ],
+            [
+                "3x200 ml",
+                "78.75"
+            ],
+            [
+                "6x200 ml",
+                "157.50"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter Milk - Ginger & Jeera (Spiced)",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "200 ml",
+                "12.00"
+            ],
+            [
+                "5x200 ml",
+                "60.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd - Farm Fresh",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "200 ml",
+                "25.00"
+            ],
+            [
+                "400 g",
+                "45.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Garlic (Soft & Creamy)",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Natural Set Curd",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "1 kg",
+                "89.00"
+            ],
+            [
+                "2x1 kg",
+                "178.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Almond Milk - Unsweetened",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "2x1 L",
+                "604.00"
+            ],
+            [
+                "3x1 L",
+                "915.00"
+            ],
+            [
+                "1 L",
+                "325.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Certified Organic Toned Milk",
+        "product_brand": "Fresho Organic",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Daily Fresh - Dahi",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "2x400 g",
+                "100.00"
+            ],
+            [
+                "400 g",
+                "50.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk - Soya, Chocolate",
+        "product_brand": "Sofit",
+        "combo": [
+            [
+                "200 ml",
+                "33.95"
+            ],
+            [
+                "4x200 ml",
+                "135.80"
+            ],
+            [
+                "6x200 ml",
+                "203.70"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fruit Yoghurt - Mango",
+        "product_brand": "mother dairy",
+        "combo": [
+            [
+                "100 g",
+                "30.00"
+            ],
+            [
+                "5x100 g",
+                "150.00"
+            ],
+            [
+                "3x100 g",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "200 g",
+                "101.97"
+            ],
+            [
+                "476 g",
+                "265.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Malai Paneer",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cooking Butter - Unsalted",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter",
+        "product_brand": "mother dairy",
+        "combo": [
+            [
+                "500 g",
+                "216.30"
+            ],
+            [
+                "100 g",
+                "50.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dairy Whitener - Dailycious",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Creami - Cheese Spread",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk Shake - Cookies & Creme",
+        "product_brand": "Hersheys",
+        "combo": [
+            [
+                "6x200 ml",
+                "203.70"
+            ],
+            [
+                "200 ml",
+                "33.95"
+            ],
+            [
+                "3x200 ml",
+                "101.85"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Shrikhand - Badam Pista",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "105.00"
+            ],
+            [
+                "200 g",
+                "50.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milk Shake - Strawberry",
+        "product_brand": "Hersheys",
+        "combo": [
+            [
+                "3x200 ml",
+                "78.75"
+            ],
+            [
+                "6x200 ml",
+                "157.50"
+            ],
+            [
+                "200 ml",
+                "26.25"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Full Cream Shrikhand Amba",
+        "product_brand": "Chitale Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Made From Toned Milk",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Paneer",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Frozen Cube",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Khova - Unsweetened",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Supremo Milk",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Vanilla",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "1 L",
+                "275.00"
+            ],
+            [
+                "3x200 ml",
+                "189.00"
+            ],
+            [
+                "200 ml",
+                "63.00"
+            ],
+            [
+                "4x200 ml",
+                "214.20"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kesar Shrikhand",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Elaichi Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter Chiplets (Cubes)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "82.50"
+            ],
+            [
+                "180 ml",
+                "30.00"
+            ],
+            [
+                "6x180 ml",
+                "180.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Frozen Cube",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Full Cream Shrikhand Elaichi",
+        "product_brand": "Chitale Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Safed Makkhan",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza, Soft & creamy",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Spicy Garlic",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Chocolate Milkshake - Enriched With Vitamin D",
+        "product_brand": "Paper Boat",
+        "combo": [
+            [
+                "4x180 ml",
+                "120.00"
+            ],
+            [
+                "180 ml",
+                "30.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Buttermilk - Spiced",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "200 ml",
+                "15.00"
+            ],
+            [
+                "6x200 ml",
+                "90.00"
+            ],
+            [
+                "3x200 ml",
+                "45.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slices",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "100 g",
+                "75.00"
+            ],
+            [
+                "200 g",
+                "125.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Dahi - Made From Toned Milk",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Fresh Paneer",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Frozen Cube",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Khova - Unsweetened",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Supremo Milk",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Vanilla",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "1 L",
+                "275.00"
+            ],
+            [
+                "3x200 ml",
+                "189.00"
+            ],
+            [
+                "200 ml",
+                "63.00"
+            ],
+            [
+                "4x200 ml",
+                "214.20"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kesar Shrikhand",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Elaichi Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Butter Chiplets (Cubes)",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "82.50"
+            ],
+            [
+                "180 ml",
+                "30.00"
+            ],
+            [
+                "6x180 ml",
+                "180.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Curd",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Paneer - Frozen Cube",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Full Cream Shrikhand Elaichi",
+        "product_brand": "Chitale Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Safed Makkhan",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Pizza, Soft & creamy",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Spread - Spicy Garlic",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Chocolate Milkshake - Enriched With Vitamin D",
+        "product_brand": "Paper Boat",
+        "combo": [
+            [
+                "4x180 ml",
+                "120.00"
+            ],
+            [
+                "180 ml",
+                "30.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Buttermilk - Spiced",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "200 ml",
+                "15.00"
+            ],
+            [
+                "6x200 ml",
+                "90.00"
+            ],
+            [
+                "3x200 ml",
+                "45.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slices",
+        "product_brand": "Milky Mist",
+        "combo": [
+            [
+                "100 g",
+                "75.00"
+            ],
+            [
+                "200 g",
+                "125.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Sugarfree Kesar Drink",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Processed Cheese Block",
+        "product_brand": "Go",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Winkin' Cow Vanillicious Thick Shake",
+        "product_brand": "Britannia",
+        "combo": [
+            [
+                "4x200 ml",
+                "140.00"
+            ],
+            [
+                "200 ml",
+                "35.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Garlic",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Unsalted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Kaju Butterscoth",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "6x180 ml",
+                "139.08"
+            ],
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Cinnamon",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Amrakhand - With Real Mango",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Badam Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese Slices Plain",
+        "product_brand": "Go",
+        "combo": [
+            [
+                "100 g",
+                "80.00"
+            ],
+            [
+                "750 g",
+                "375.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "3x180 ml",
+                "62.04"
+            ],
+            [
+                "180 ml",
+                "23.18"
+            ],
+            [
+                "6x180 ml",
+                "139.08"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Spread",
+        "product_brand": "mother dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Choco Mint",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Vanilla",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Camel Milk",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "4x200 ml",
+                "100.00"
+            ],
+            [
+                "200 ml",
+                "25.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Lite Milk Fat Spread",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "500 g",
+                "170.72"
+            ],
+            [
+                "100 g",
+                "35.02"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Healthier & Delicious Fat Spread With Omega-3 & 0% Cholesterol",
+        "product_brand": "Nutralite",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Shake",
+        "product_brand": "Storia",
+        "combo": [
+            [
+                "180 ml",
+                "35.00"
+            ],
+            [
+                "5x200 ml",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Slice",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Banana Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Chocolate",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "1 L",
+                "275.00"
+            ],
+            [
+                "3x200 ml",
+                "189.00"
+            ],
+            [
+                "200 ml",
+                "63.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Block",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Banana + Honey",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Milkshake - Enriched With Vitamin D",
+        "product_brand": "Paper Boat",
+        "combo": [
+            [
+                "180 ml",
+                "30.00"
+            ],
+            [
+                "4x180 ml",
+                "120.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Hazelnut",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Pepper",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Milk Shake - Strawberry",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "200 ml",
+                "27.00"
+            ],
+            [
+                "3x200 ml",
+                "81.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim N Trim - Non Fat Milk Powder",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Almond Flavour",
+        "product_brand": "Hersheys",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Salted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Table Butter - Salted",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Punjabi Paneer",
+        "product_brand": "Tasty Fresh",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Coffee Almond Milk - Lactose Free, Dairy Free, Vegan",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "100.00"
+            ],
+            [
+                "2x200 ml",
+                "200.00"
+            ],
+            [
+                "4x200 ml",
+                "300.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Taaza Milk Tetra Pack",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Soy Milk Natural",
+        "product_brand": "So Good",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kesar Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mango Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Cold Coffee",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "90.00"
+            ],
+            [
+                "4x200 ml",
+                "342.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Salted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Chocolate",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "1 L",
+                "275.00"
+            ],
+            [
+                "3x200 ml",
+                "189.00"
+            ],
+            [
+                "200 ml",
+                "63.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Block",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Banana + Honey",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Milkshake - Enriched With Vitamin D",
+        "product_brand": "Paper Boat",
+        "combo": [
+            [
+                "180 ml",
+                "30.00"
+            ],
+            [
+                "4x180 ml",
+                "120.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Hazelnut",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Pepper",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Milk Shake - Strawberry",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "200 ml",
+                "27.00"
+            ],
+            [
+                "3x200 ml",
+                "81.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim N Trim - Non Fat Milk Powder",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Almond Flavour",
+        "product_brand": "Hersheys",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Salted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Table Butter - Salted",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Punjabi Paneer",
+        "product_brand": "Tasty Fresh",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Coffee Almond Milk - Lactose Free, Dairy Free, Vegan",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "100.00"
+            ],
+            [
+                "2x200 ml",
+                "200.00"
+            ],
+            [
+                "4x200 ml",
+                "300.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Taaza Milk Tetra Pack",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Soy Milk Natural",
+        "product_brand": "So Good",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kesar Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mango Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Cold Coffee",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "90.00"
+            ],
+            [
+                "4x200 ml",
+                "342.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Salted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Drink - Almond Fresh, Chocolate",
+        "product_brand": "So Good",
+        "combo": [
+            [
+                "1 L",
+                "275.00"
+            ],
+            [
+                "3x200 ml",
+                "189.00"
+            ],
+            [
+                "200 ml",
+                "63.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Strawberry",
+        "product_brand": "Cavins",
+        "combo": [
+            [
+                "2x1 L",
+                "350.00"
+            ],
+            [
+                "1 L",
+                "175.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Cheese - Block",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Banana + Honey",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "4x200 ml",
+                "324.00"
+            ],
+            [
+                "200 ml",
+                "90.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Strawberry Milkshake - Enriched With Vitamin D",
+        "product_brand": "Paper Boat",
+        "combo": [
+            [
+                "180 ml",
+                "30.00"
+            ],
+            [
+                "4x180 ml",
+                "120.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Cafe - Hazelnut",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Cheese Spread - Pepper",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kool Milk Shake - Strawberry",
+        "product_brand": "Amul",
+        "combo": [
+            [
+                "200 ml",
+                "27.00"
+            ],
+            [
+                "3x200 ml",
+                "81.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Slim N Trim - Non Fat Milk Powder",
+        "product_brand": "Amul",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Milkshake - Almond Flavour",
+        "product_brand": "Hersheys",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Premium Butter - Salted",
+        "product_brand": "President",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Table Butter - Salted",
+        "product_brand": "Milky Mist",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Punjabi Paneer",
+        "product_brand": "Tasty Fresh",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Coffee Almond Milk - Lactose Free, Dairy Free, Vegan",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "100.00"
+            ],
+            [
+                "2x200 ml",
+                "200.00"
+            ],
+            [
+                "4x200 ml",
+                "300.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Taaza Milk Tetra Pack",
+        "product_brand": "Modern Dairy",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Soy Milk Natural",
+        "product_brand": "So Good",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Kesar Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Mango Shake",
+        "product_brand": "Storia",
+        "combo": [],
+        "sub_category_name": "Dairy"
+    },
+    {
+        "category": "Bakery, Cakes & Dairy",
+        "product_name": "Protein Milkshake - Cold Coffee",
+        "product_brand": "Raw Pressery",
+        "combo": [
+            [
+                "200 ml",
+                "90.00"
+            ],
+            [
+                "4x200 ml",
+                "342.00"
+            ]
+        ],
+        "sub_category_name": "Dairy"
+    }
+]
